@@ -1,0 +1,9 @@
+#+BEGIN_SRC plantuml :file img/wordmap.png :cmdline -charset UTF-8
+
+@startmindmap
+
+#+INCLUDE: 101words.org
+
+@endmindmap
+
+#+end_SRC
