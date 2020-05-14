@@ -1,4 +1,72 @@
-* Programming
-** C/C++(組み込み)
-** php
-** Elixir
+* 自分を構成する101のキーワード
+** Programming
+*** C/C++(組み込み)
+**** PIC
+**** ARM Cortex
+**** Arduino
+*** php
+**** オレオレフレームワーク
+***** url routerの実装を知ること
+*** ruby
+*** Elixir
+**** erlang
+*** JavaScript
+**** Vue.js
+*** bourne shell
+**** bash
+**** zsh
+**** FreeBSD sh
+**** ksh
+**** POSIX shellの挙動を知ること
+** OS
+*** OpenBSD
+**** シンプル
+**** パーミッシブライセンス
+*** FreeBSD
+**** 多機能
+**** Jail
+**** behyve
+*** (ﾁｮｯﾄﾀﾞｹ)Linux
+** 本屋
+*** 技術書担当
+** Network
+*** Cisco IOS
+*** 好きなプロトコル
+**** POP before SMTP
+** 自宅オンプレで気に入ってるもの
+*** FreeBSDJail
+*** XMPP(自分用chat)
+*** NAT64,DNS64を利用したIPv6onlyネットワーク
+** 好きな読みもの
+*** rise of stupid network
+**** David Isenberg
+*** あらゆる年齢「子供たち」のためのパーソナルコンピュータ
+**** alan kay
+** 研究
+*** 靭帯再建
+**** 前距腓靭帯
+**** 後距腓靭帯
+*** センサネットワーク
+** 趣味
+*** 車
+**** 耐久レース
+*** もの作り
+**** 基板設計
+**** IoT
+*** 銭湯
+**** サウナ
+**** 水風呂
+*** お酒
+**** ビール
+**** ワイン
+*** 海外旅行
+**** バルセロナ
+**** ヨーロッパ
+** 始めたいこと
+*** 地理
+** 技術的思想
+*** ライセンス
+*** 技術選択
+**** ちょっとマイナー
+*** 多様性
+
