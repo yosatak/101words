@@ -27,9 +27,9 @@
 *** EmacsLisp(未熟)
 *** bourne shell
 **** bash
-**** zsh
-**** FreeBSD sh
+**** FreeBSD sh(ash?)
 **** ksh
+**** zsh
 **** ...POSIX shellの挙動の差
 ** OS
 *** OpenBSD
@@ -53,6 +53,7 @@
 *** XMPP(自分用chat)
 *** NAT64,DNS64を利用したIPv6onlyネットワーク
 *** pleroma(mastodonではないActivityPub実装)
+left side
 ** 読書
 *** rise of stupid network
 **** David Isenberg
@@ -92,7 +93,7 @@
 **** 道路の成り立ち
 **** 交通科学
 *** 認証認可
-**** プライバシー
+**** 規格についてと倫理について
 *** ワインエキスパート
 *** 筋肉
 ** 技術的思想
@@ -101,5 +102,10 @@
 *** 技術選択
 **** ちょっとマイナー
 *** 多様性
+
+
+header
+https://github.com/yosatak/101words
+endheader
 
 @endmindmap

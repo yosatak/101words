@@ -1,1 +1,6 @@
+
+header
+https://github.com/yosatak/101words
+endheader
+
 @endmindmap
